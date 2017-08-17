@@ -1,0 +1,54 @@
+{
+  "name": "node-fig",
+  "version": "1.0.0",
+  "description": "Config file for sensitive information like API keys on open source projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "bin": {
+    "fig": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amay22/node-fig.git"
+  },
+  "keywords": [
+    "node-fig",
+    "config",
+    "fig",
+    "figaro",
+    "open",
+    "source",
+    "secret",
+    "sensitive",
+    "apikeys",
+    "api-keys",
+    "secret-key",
+    "secretkey",
+    "condig",
+    "npm",
+    "node",
+    "javascript",
+    "front-end",
+    "frontend",
+    "CLI",
+    "password",
+    "keys"
+  ],
+  "author": "amay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amay22/node-fig/issues"
+  },
+  "homepage": "https://github.com/Amay22/node-fig#readme",
+  "dependencies": {
+    "nopt": "^4.0.1",
+    "npmlog": "^4.1.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^20.0.4"
+  }
+}

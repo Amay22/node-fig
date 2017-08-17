@@ -1,0 +1,13 @@
+# IDE
+.idea/*
+
+# Imported Dependencies
+node_modules/*
+
+# Node Artifacts
+package-lock.json
+
+# Coverage files
+coverage/*
+
+fig.json
